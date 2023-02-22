@@ -42,7 +42,7 @@
 | C++    | g++ -v
 
 - C語言環境檢查成功範例 
-<br>![](image\C_EnvCheck.png)<br>
+<br>![](image/C_EnvCheck.png)<br>
 
 - 環境檢查失敗 
-<br>![](image\CheckFail.png)<br>
+<br>![](image/CheckFail.png)<br>
