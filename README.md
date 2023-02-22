@@ -18,10 +18,10 @@
 5. 選擇用戶欄中的 Path 路徑，然後點擊 Edit 編輯 
 <br>![](image/winInfo_EnvVar.png)<br>
 
-6. 右上角選擇 New 新增，然後貼上路徑 
+6. 右上角選擇 New 新增，然後貼上路徑 `D:\Tools\Environment\C_Cpp\mingw64\bin`
 <br>![](image/winInfo_EnvVar-Edit.png)<br>
 
-7. 所有彈出來的窗口都點擊確認即可
+1. 所有彈出來的窗口都點擊確認即可
 
 ### 環境檢查
 
