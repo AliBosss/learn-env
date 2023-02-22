@@ -1,6 +1,7 @@
-# OS Environment Variables Settings 系統環境變數設定
+# OS Environment Variables Settings
+`系統環境變數設定`
 
-### For Windows
+## For Windows
 
 1. 按 Win + i 打開系統設定 
 <br>![](image\winInfo_Index.png)<br>
@@ -26,12 +27,15 @@
 
 1. 按 Win + r 打開運行界面 
 <br>![](image\run.png)<br>
+
 2. 輸入 cmd.exe 後，會彈出黑色的命令行界面 
 <br>![](image/cmdline.png)<br>
+
 3. 在命令行界面輸入以下對應想要檢查的程式語言指令
 ( *注：如果環境配置成功，會顯示版本號，例如：version7.11.12 )
 ( *注：失敗這會顯示，非内部命令 或出現 Internal 字詞，這時候請重新檢查路徑是否正確 )
-#### C語言
+
+## C語言
 |程式語言 |指令
 |:----   |:----
 | C      | gcc -v
